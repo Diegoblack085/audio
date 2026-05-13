@@ -29,3 +29,50 @@
              adipisicing elit. Facilis consequuntur odit iste volu<BR>ptatem omnis repellat qui vel. Autem laborum consequuntur, repellendus officia id inventore totam nulla rerum, qui eligendi ullam.</P>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Nada</2><br>
+        <a href="audio.html">audio</a>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ImZoGl-pjVw?si=xbnRY4FYNeM6ph0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="audio.html">audio</a>&nbsp;&nbsp;&nbsp;
+      <a href="audio.html">audio</a>&nbsp;&nbsp;&nbsp;
+        <a href="audio.html">audio</a>&nbsp;&nbsp;&nbsp;<!--&NBSP
+        PARA ESPACO-->
+    <h2>Aula de audio</h2>
+    <!--CONTROLS COLOCA O AUDIO SEM NAO VAI-->
+    <Audio controls controlsList="nodownload"><!--CONTROLSLIST="NODOWNLOAD TIRA A OPCAO DE 
+        DOWNLOAD"-->
+        
+        
+        <!--AUDIO COLOCA AUDIO E TEM FECHAMENTO
+        NORMAL, SOURCE SRC PARA ESCOLHER DE ONDE ESTA O AUDIO
+        TYPE TEM VARIOS TIPOS EU USEI AUDIO.MP3-->
+        <source src="audio/audio.mp3"
+        type="audio/mpeg"><!--tipo de audio-->
+        
+       
+    </Audio>
+    <H2>Audio descricao do conteudo escrito</H2>
+    <P>Lorem ipsum dolor, sit amet consectetur<BR>
+       
+        adipisicing elit. Facilis consequuntur odit iste volu<BR>ptatem omnis repellat qui vel. Autem laborum consequuntur, repellendus officia id inventore totam nulla rerum, qui eligendi ullam.</P>
+       
+                <a href="aula13.html">Voltar</a>
+        </body>
+</html>
